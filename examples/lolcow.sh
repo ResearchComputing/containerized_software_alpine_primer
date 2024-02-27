@@ -1,3 +1,3 @@
 #!/bin/sh
 
- date | cowsay | lolcat
+ echo "Moo to you too!" | cowsay | lolcat
