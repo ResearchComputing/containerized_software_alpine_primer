@@ -1,1 +1,1 @@
-#### This directory contains sxamples for the Alpine containerization course
+#### This directory contains examples for the Alpine containerization course
