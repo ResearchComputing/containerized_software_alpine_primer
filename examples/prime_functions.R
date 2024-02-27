@@ -1,4 +1,3 @@
-
 #Function to compute all prime numbers < argument "n"
 #https://www.r-bloggers.com/lets-be-faster-and-more-parallel-in-r-with-doparallel-package/
 getPrimeNumbers <- function(n) {  
